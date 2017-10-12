@@ -1,0 +1,6 @@
+{
+    "parent": "block/crop",
+    "textures": {
+        "crop": "newmod:crops/eggplant/eggplant_stage0"
+    }
+}

@@ -1,0 +1,6 @@
+{
+    "parent": "block/crop",
+    "textures": {
+        "crop": "newmod:crops/tomato/tomato_stage6"
+    }
+}

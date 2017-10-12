@@ -1,0 +1,6 @@
+{
+    "parent": "block/crop",
+    "textures": {
+        "crop": "newmod:crops/kiwi/kiwi_stage7"
+    }
+}

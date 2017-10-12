@@ -1,0 +1,6 @@
+{
+    "parent": "block/crop",
+    "textures": {
+        "crop": "newmod:crops/gourd/gourd_stage3"
+    }
+}
