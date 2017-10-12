@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "#"
+  ],
+  "key": {
+    "#": {
+      "item": "newmod:honey_block",
+      "data": 0
+    }
+  },
+  "result": {
+    "item": "newmod:honey_pile",
+    "data": 0,
+    "count": 9
+  }
+}

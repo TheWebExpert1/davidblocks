@@ -1,0 +1,13 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [{
+        "item": "minecraft:glass_bottle"
+    },{
+        "item": "newmod:royal_jelly_pile",
+        "data": 0
+    }], 
+    "result": {
+        "item": "newmod:royal_jelly_bottle",
+        "data": 0
+    }
+}

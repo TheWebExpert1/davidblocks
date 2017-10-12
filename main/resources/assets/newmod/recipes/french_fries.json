@@ -1,0 +1,14 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [{
+        "item": "minecraft:potato",
+        "data": 0
+    },{
+        "item": "newmod:boiling_oil",
+        "data": 0
+    }], 
+    "result": {
+        "item": "newmod:french_fries",
+        "data": 0
+    }
+}

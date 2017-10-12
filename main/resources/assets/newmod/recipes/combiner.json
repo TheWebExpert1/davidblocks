@@ -1,0 +1,30 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "#@#",
+    "% %",
+    "#$#"
+  ],
+  "key": {
+    "#": {
+      "item": "newmod:steel_block",
+      "data": 0
+    },
+    "@": {
+      "item": "minecraft:obsidian",
+      "data": 0
+    },
+    "%": {
+      "item": "minecraft:piston",
+      "data": 0
+    },
+    "$": {
+      "item": "minecraft:redstone_block",
+      "data": 0
+    }
+  },
+  "result": {
+    "item": "newmod:combiner_idle",
+    "data": 0
+  }
+}

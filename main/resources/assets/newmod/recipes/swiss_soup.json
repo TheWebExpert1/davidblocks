@@ -1,0 +1,13 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [{
+        "item": "minecraft:bowl"
+    },{
+        "item": "newmod:swiss_cheese",
+        "data": 0
+    }], 
+    "result": {
+        "item": "newmod:swiss_soup",
+        "data": 0
+    }
+}

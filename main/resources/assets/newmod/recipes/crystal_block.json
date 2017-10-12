@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "###",
+    "###",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "newmod:crystal_shard",
+      "data": 0
+    }
+  },
+  "result": {
+    "item": "newmod:crystal_block",
+    "data": 0
+  }
+}

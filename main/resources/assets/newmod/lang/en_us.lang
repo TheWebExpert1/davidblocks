@@ -1,0 +1,136 @@
+entity.Bee.name=Bee
+
+item.axe_copper.name=Copper Axe
+item.axe_emerald.name=Emerald Axe
+item.axe_silver.name=Silver Axe
+item.coppery_beet.name=Coppery Beet
+item.irony_beet.name=Irony Beet
+item.silvery_beet.name=Silvery Beet
+item.boots_copper.name=Copper Boots
+item.boots_emerald.name=Emerald Boots
+item.boots_silver.name=Silver Boots
+item.american_cheese.name=American Cheese
+item.cheddar_cheese.name=Cheddar Cheese
+item.swiss_cheese.name=Swiss Cheese
+item.eggplant.name=Eggplant
+item.corn.name=Corn
+item.eggplant.name=Eggplant
+item.gourd.name=Gourd
+item.lettuce.name=Lettuce
+item.popcorn.name=Popcorn
+item.wine.name=Wine
+item.french_fries.name=French Fries
+item.ketchup.name=Ketchup
+item.fried_fish.name=Fried Fish
+item.fried_salmon.name=Fried Salmon
+item.gourd.name=Gourd
+item.grapes.name=Grapes
+item.helmet_copper.name=Copper Helmet
+item.helmet_emerald.name=Emerald Helmet
+item.helmet_silver.name=Silver Helmet
+item.hoe_copper.name=Copper Hoe
+item.hoe_emerald.name=Emerald Hoe
+item.hoe_silver.name=Silver Hoe
+item.honey_bottle.name=Bottle of Honey
+item.honey_pile.name=Honey
+item.copper_ingot.name=Copper Ingot
+item.emerald_ingot.name=Emerald Ingot
+item.silver_ingot.name=Silver Ingot
+item.kiwi.name=Kiwi
+item.lettuce.name=Lettuce
+item.crystal_shard.name=Crystal Shard
+item.magic_dust.name=Magic Dust
+item.marrow.name=Marrow
+item.nitroglycerin.name=Nitroglycerin
+item.pollen.name=Bee Pollen
+item.copper_nugget.name=Copper Nugget
+item.emerald_nugget.name=Emerald Nugget
+item.silver_nugget.name=Silver Nugget
+item.boiling_oil.name=Bottle of Boiling Oil
+item.bottle_oil.name=Bottle of Oil
+item.pants_copper.name=Copper Pants
+item.pants_emerald.name=Emerald Pants
+item.pants_silver.name=Silver Pants
+item.pickaxe_copper.name=Copper Pickaxe
+item.pickaxe_emerald.name=Emerald Pickaxe
+item.pickaxe_silver.name=Silver Pickaxe
+item.royal_jelly_bottle.name=Bottle of Royal Jelly
+item.royal_jelly_pile.name=Royal Jelly
+item.grilled_sandwich.name=Grilled Cheese Sandwich
+item.plain_sandwich.name=Cheese Sandwich
+item.shirt_copper.name=Copper Shirt
+item.shirt_emerald.name=Emerald Shirt
+item.shirt_silver.name=Silver Shirt
+item.shovel_copper.name=Copper Shovel
+item.shovel_emerald.name=Emerald Shovel
+item.shovel_silver.name=Silver Shovel
+item.american_soup.name=American Cheese Soup
+item.cheddar_soup.name=Cheddar Cheese Soup
+item.swiss_soup.name=Swiss Cheese Soup
+item.sword_copper.name=Copper Sword
+item.sword_emerald.name=Emerald Sword
+item.sword_silver.name=Silver Sword
+item.tomato.name=Tomato
+item.wildberry.name=Wildberry
+
+
+container.compressor=Compressor
+tile.compressor_active.name=Active Compressor
+tile.compressor_idle.name=Compressor
+container.combiner=Combiner
+tile.combiner_active.name=Active Combiner
+tile.combiner_idle.name=Combiner
+
+
+tile.beet_block.name=Beet Block
+tile.ceramic_block.name=Ceramic Block
+tile.copper_block.name=Copper Block
+tile.crystal_block.name=Crystal Block
+tile.flint_block.name=Flint Block
+tile.flower_bed_soil_block.name=Flower Bed Soil Block
+tile.gourd_block.name=Gourd Block
+tile.hellstone_block.name=Hellstone Block
+tile.honey_block.name=Honey Block
+tile.honey_hex_block.name=Honey Hex
+tile.honeycomb_block.name=Honeycomb
+tile.powered_crystal_block.name=Powered Crystal Block
+tile.silver_block.name=Silver Block
+tile.steel_block.name=Steel Block
+
+
+tile.compressor.name=Compressor Block
+tile.compressoron.name=Compressor Block
+tile.crop.eggplant.name=Eggplant Bush
+tile.crop.gourd.name=Gourd Plant
+tile.crop.grapes.name=Grape Vine
+tile.crop.kiwi.name=Kiwi Bush
+tile.crop.lettuce.name=Lettuce Plant
+tile.crop.tomato.name=Tomato Plant
+tile.crop.wildberry.name=Wildberry Plant
+
+
+tile.endbrick_slab.name=Endbrick Slab
+tile.endbrick_stairs.name=End Brick Stairs
+tile.glass_slab.name=Glass Slab
+tile.glass_stairs.name=Glass Stairs
+tile.nether_wart_block_slab.name=Nether Wart Block Slab
+tile.nether_wart_block_stairs.name=Nether Wart Block Stairs
+tile.oil.name=Oil
+tile.ore_copper.name=Copper Ore
+tile.ore_silver.name=Silver Ore
+tile.glassdoor_clear.name=Glass Door
+
+
+
+item.eggplantSeeds.name=Eggplant Seeds
+item.gourdSeeds.name=Gourd Seeds
+item.grapesSeeds.name=Grape Seeds
+item.kiwiSeeds.name=Kiwi Seeds
+item.lettuceSeeds.name=Lettuce Seeds
+item.tomatoSeeds.name=Tomato Seeds
+item.wildberrySeeds.name=Wildberry Seeds
+
+
+
+fluid.oil=Oil
+itemGroup.newmod=DigDoug's Tab

@@ -1,0 +1,59 @@
+ {
+    "Bee_Ambient":
+      {
+        "sounds":
+          [
+            {
+              "name": "newmod:mob/bee/say1"
+            },
+            {
+              "name": "newmod:mob/bee/say2"
+            },
+            {
+              "name": "newmod:mob/bee/say3"
+            }
+          ]
+      },
+    "Bee_Hurt":
+      {
+        "sounds":
+          [
+            {
+              "name": "newmod:mob/bee/hurt1"
+            },
+            {
+              "name": "newmod:mob/bee/hurt2"
+            }
+          ]
+      },
+    "Bee_Death":
+      {
+        "sounds":
+          [
+            {
+              "name": "newmod:mob/bee/death"
+            }
+          ]
+      },
+    "Bee_Step":
+      {
+        "sounds":
+          [
+            {
+              "name": "newmod:mob/bee/step1"
+            },
+            {
+              "name": "newmod:mob/bee/step2"
+            },
+            {
+              "name": "newmod:mob/bee/step3"
+            },
+            {
+              "name": "newmod:mob/bee/step4"
+            },
+            {
+              "name": "newmod:mob/bee/step5"
+            }
+          ]
+      }
+  }

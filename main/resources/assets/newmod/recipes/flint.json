@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "#"
+  ],
+  "key": {
+    "#": {
+      "item": "newmod:flint_block",
+      "data": 0
+    }
+  },
+  "result": {
+    "item": "minecraft:flint",
+    "data": 0,
+    "count": 9
+  }
+}

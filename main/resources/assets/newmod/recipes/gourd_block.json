@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "###",
+    "###",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "newmod:gourd",
+      "data": 0
+    }
+  },
+  "result": {
+    "item": "newmod:gourd_block",
+    "data": 0
+  }
+}

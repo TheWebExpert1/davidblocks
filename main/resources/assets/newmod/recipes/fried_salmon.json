@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "minecraft:fish",
+      "data": 1
+    },
+    {
+      "item": "newmod:boiling_oil",
+      "data": 0
+    }
+  ],
+  "result": {
+    "item": "newmod:fried_fish",
+    "data": 0
+  }
+}

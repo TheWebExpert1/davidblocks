@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "#"
+  ],
+  "key": {
+    "#": {
+      "item": "newmod:emerald_ingot",
+      "data": 0
+    }
+  },
+  "result": {
+    "item": "newmod:emerald_nugget",
+    "data": 0,
+    "count": 9
+  }
+}

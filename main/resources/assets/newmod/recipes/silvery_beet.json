@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "###",
+    "#@#",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "newmod:silver_nugget",
+      "data": 0
+    },
+    "@": {
+      "item": "minecraft:beetroot",
+      "data": 0
+    }
+  },
+  "result": {
+    "item": "newmod:silvery_beet",
+    "data": 0
+  }
+}

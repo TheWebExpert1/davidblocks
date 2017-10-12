@@ -1,0 +1,14 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [{
+        "item": "minecraft:glass_bottle",
+        "data": 0
+    },{
+        "item": "newmod:honey_pile",
+        "data": 0
+    }], 
+    "result": {
+        "item": "newmod:honey_bottle",
+        "data": 0
+    }
+}
