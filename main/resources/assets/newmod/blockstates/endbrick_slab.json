@@ -1,0 +1,6 @@
+{
+    "variants": {
+        "half=bottom,variant=default": { "model": "newmod:half_slab_endbrick" },
+        "half=top,variant=default": { "model": "newmod:upper_slab_endbrick" }
+    }
+}

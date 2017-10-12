@@ -1,0 +1,50 @@
+{
+    "forge_marker": 1,
+    "defaults": {
+        "model": "newmod:crosscrop"
+    },
+    "variants": {
+        "age": {
+            "0": { 
+                "textures": {
+                    "crop": "newmod:crops/wildberry/wildberry_stage0" 
+                }
+            },
+            "1": { 
+                "textures": {
+                    "crop": "newmod:crops/wildberry/wildberry_stage1" 
+                }
+            },
+            "2": { 
+                "textures": {
+                    "crop": "newmod:crops/wildberry/wildberry_stage2" 
+                }
+            },
+            "3": { 
+                "textures": {
+                    "crop": "newmod:crops/wildberry/wildberry_stage3" 
+                }
+            },
+            "4": { 
+                "textures": {
+                    "crop": "newmod:crops/wildberry/wildberry_stage4" 
+                }
+            },
+            "5": { 
+                "textures": {
+                    "crop": "newmod:crops/wildberry/wildberry_stage5" 
+                }
+            },
+            "6": { 
+                "textures": {
+                    "crop": "newmod:crops/wildberry/wildberry_stage6" 
+                }
+            },
+            "7": { 
+                "textures": {
+                    "crop": "newmod:crops/wildberry/wildberry_stage7" 
+                }
+            }
+        }
+    }
+}

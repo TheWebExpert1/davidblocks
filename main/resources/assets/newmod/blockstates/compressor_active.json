@@ -1,0 +1,8 @@
+{
+    "variants": {
+        "facing=north": { "model": "newmod:compressor_active"},
+        "facing=south": { "model": "newmod:compressor_active", "y": 180 },
+        "facing=west":  { "model": "newmod:compressor_active", "y": 270 },
+        "facing=east":  { "model": "newmod:compressor_active", "y": 90  }
+    }
+}

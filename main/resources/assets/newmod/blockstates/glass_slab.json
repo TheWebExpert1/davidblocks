@@ -1,0 +1,6 @@
+{
+    "variants": {
+        "half=bottom,variant=default": { "model": "newmod:half_slab_glass" },
+        "half=top,variant=default": { "model": "newmod:upper_slab_glass" }
+    }
+}

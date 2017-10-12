@@ -1,0 +1,6 @@
+{
+    "variants": {
+        "half=bottom,variant=default": { "model": "newmod:half_slab_nether_wart_block" },
+        "half=top,variant=default": { "model": "newmod:upper_slab_nether_wart_block" }
+    }
+}

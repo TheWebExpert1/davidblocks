@@ -1,0 +1,5 @@
+{
+    "variants": {
+        "normal": { "model": "newmod:powered_crystal_block" }
+    }
+}
