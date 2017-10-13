@@ -43,6 +43,8 @@ public class Init_Items
 	public static Item pollen;
 	public static Item crystal_shard;
 	
+	public static Item itemGlassdoor_clear;
+	
 	@SubscribeEvent
 	public static void registerItems(RegistryEvent.Register<Item> event)
 	  {
@@ -59,6 +61,9 @@ public class Init_Items
 		pollen = new Custom_Item("pollen", CreativeTabs.MISC);
 		crystal_shard = new Custom_Item("crystal_shard", CreativeTabs.MISC);
 		event.getRegistry().registerAll(copper_nugget, emerald_nugget, silver_nugget, copper_ingot, emerald_ingot, silver_ingot, magic_dust, marrow, nitroglycerin, pollen, crystal_shard);
+		
+		itemGlassdoor_clear = new ItemDoor(Init_Blocks.glassdoor_clear).setRegistryName("itemGlassdoor_clear").setUnlocalizedName("itemGlassdoor_clear");
+		event.getRegistry().registerAll(itemGlassdoor_clear);
 	  }
     @SubscribeEvent
 	@SideOnly(Side.CLIENT)
@@ -75,6 +80,7 @@ public class Init_Items
 		registerItem(nitroglycerin);
 		registerItem(pollen);
 		registerItem(crystal_shard);
+		registerItem(itemGlassdoor_clear);
   	  }
     public static void registerItem(Item item)
       {
