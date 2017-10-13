@@ -37,6 +37,7 @@ import net.minecraftforge.fml.relauncher.SideOnly;
 import net.minecraftforge.registries.IForgeRegistryEntry.Impl;
 import newmod.common.blocks.Custom_Ore;
 import newmod.common.blocks.doors.Glass_Door;
+import newmod.common.blocks.logic.And_Gate;
 import newmod.common.blocks.Custom_Block;
 import newmod.common.blocks.stairs.Glass_Stairs;
 import newmod.common.blocks.stairs.Custom_Stairs;
@@ -87,6 +88,8 @@ public class Init_Blocks
 	
 	public static Glass_Door glassdoor_clear;
 	
+	public static And_Gate and_gate;
+	
     @SubscribeEvent
 	public static void registerBlocks(RegistryEvent.Register<Block> event)
 	  {
@@ -126,6 +129,9 @@ public class Init_Blocks
     	
     	glassdoor_clear = new Glass_Door("glassdoor_clear");
     	event.getRegistry().registerAll(glassdoor_clear);
+
+    	and_gate = new And_Gate("and_gate", false);
+    	event.getRegistry().registerAll(and_gate);
 	  }
     @SubscribeEvent
 	@SideOnly(Side.CLIENT)
@@ -142,7 +148,8 @@ public class Init_Blocks
 		registerBlocks(glass_slab);            registerBlocks(endbrick_slab);               registerBlocks(nether_wart_block_slab);	    
 		registerBlocks(glass_double_slab);     registerBlocks(endbrick_double_slab);        registerBlocks(nether_wart_block_double_slab);
 		
-		registerBlocks(glassdoor_clear);
+		//registerBlocks(glassdoor_clear);
+		registerBlocks(and_gate);
       }
     public static void registerBlocks(Block block)
       {

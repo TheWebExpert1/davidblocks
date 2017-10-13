@@ -42,7 +42,8 @@ public class Init_ItemBlocks
 	public static Item endbrick_slab;
 	public static Item nether_wart_block_slab;
 	
-	public static Item glassdoor_clear;
+	
+	public static Item and_gate;
 
 	@SubscribeEvent
 	public static void registerItemBlocks(RegistryEvent.Register<Item> event)
@@ -78,7 +79,8 @@ public class Init_ItemBlocks
 		nether_wart_block_slab = new ItemSlab(Init_Blocks.nether_wart_block_slab, Init_Blocks.nether_wart_block_slab, Init_Blocks.nether_wart_block_double_slab).setUnlocalizedName("nether_wart_block_slab").setRegistryName("nether_wart_block_slab");
     	event.getRegistry().registerAll(glass_slab, endbrick_slab, nether_wart_block_slab);
     	
-    	glassdoor_clear = new Custom_ItemBlock("glassdoor_clear", Init_Blocks.glassdoor_clear);
-    	event.getRegistry().registerAll(glassdoor_clear);
+
+    	and_gate = new Custom_ItemBlock("and_gate", Init_Blocks.and_gate);
+    	event.getRegistry().registerAll(and_gate);
 	  }
   }
