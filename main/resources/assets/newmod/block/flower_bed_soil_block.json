@@ -1,0 +1,6 @@
+{
+    "parent": "block/cube_all",
+    "textures": {
+        "all": "newmod:blocks/flower_bed_soil_block"
+    }
+}

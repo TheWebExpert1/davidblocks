@@ -1,0 +1,6 @@
+{
+    "parent": "block/crop",
+    "textures": {
+        "crop": "newmod:crops/wildberry/wildberry_stage5"
+    }
+}

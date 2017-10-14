@@ -1,0 +1,12 @@
+  {
+
+    "parent": "block/wall_side",
+
+    "textures":
+      {
+
+        "wall": "blocks/clay"
+
+      }
+
+  }

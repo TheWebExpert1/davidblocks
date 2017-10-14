@@ -1,0 +1,7 @@
+{
+    "parent": "block/door_top_rh",
+    "textures": {
+        "bottom": "newmod:blocks/glassdoor_clear_lower_rh",
+        "top": "newmod:blocks/glassdoor_clear_upper_rh"
+    }
+}
